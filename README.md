@@ -1,9 +1,10 @@
 # AnkiNoteTypes
-
-[![Chat](https://img.shields.io/badge/chat-join-green.svg)](https://tatsumoto-ren.github.io/blog/join-our-community.html)
-[![Channel](https://shields.io/badge/channel-subscribe-blue?logo=telegram&color=3faee8)](https://t.me/ajatt_tools)
-[![Patreon](https://img.shields.io/badge/patreon-support-orange)](https://www.patreon.com/bePatron?u=43555128)
-
+<br></br><br></br>
+### The "Japanese sentences" template:
+![image](https://github.com/KonstantinDjairo/AnkiNoteTemplate/assets/53496273/dcc7120d-ecf4-41cd-bb09-94753b24ce0a)
+- Note that this repo contains all the fonts & files needed to reproduce that template as in the picture above.
+<br></br><br></br><br></br>
+--
 A collection of user-created note types for Anki 2.1. It includes a super user-friendly mechanism of importing and exporting them, and everyone is welcome to add their templates by making a pull request.
 
 ## Usage
